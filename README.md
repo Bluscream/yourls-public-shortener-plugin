@@ -17,7 +17,7 @@ Renders a premium, modern, responsive, and Turnstile-secured public URL shortene
 
 | Public Shortener Landing Page | Public Shortener Settings Panel |
 | :---: | :---: |
-| ![Public Shortener Landing Page](https://raw.githubusercontent.com/Bluscream/yourls-public-shortener-plugin/master/screenshots/landing_page.png) | ![Public Shortener Settings Panel](https://i.imgur.com/o6EB2oR.png) |
+| ![Public Shortener Landing Page](https://i.imgur.com/0pvyW2j.png) | ![Public Shortener Settings Panel](https://i.imgur.com/o6EB2oR.png) |
 
 </details>
 
